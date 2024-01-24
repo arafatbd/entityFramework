@@ -1,0 +1,11 @@
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/bin/Debug/net8.0/EFCORE.DOMAIN.deps.json
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/bin/Debug/net8.0/EFCORE.DOMAIN.dll
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/bin/Debug/net8.0/EFCORE.DOMAIN.pdb
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/EFCORE.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/EFCORE.DOMAIN.AssemblyInfoInputs.cache
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/EFCORE.DOMAIN.AssemblyInfo.cs
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/EFCORE.DOMAIN.csproj.CoreCompileInputs.cache
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/EFCORE.DOMAIN.dll
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/refint/EFCORE.DOMAIN.dll
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/EFCORE.DOMAIN.pdb
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/ref/EFCORE.DOMAIN.dll

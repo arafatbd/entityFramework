@@ -1,0 +1,17 @@
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/bin/Debug/net8.0/EFCORE.DATA.deps.json
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/bin/Debug/net8.0/EFCORE.DATA.dll
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/bin/Debug/net8.0/EFCORE.DATA.pdb
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/bin/Debug/net8.0/EFCORE.DOMAIN.dll
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/bin/Debug/net8.0/EFCORE.DOMAIN.pdb
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/EFCORE.DATA.csproj.AssemblyReference.cache
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/EFCORE.DATA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/EFCORE.DATA.AssemblyInfoInputs.cache
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/EFCORE.DATA.AssemblyInfo.cs
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/EFCORE.DATA.csproj.CoreCompileInputs.cache
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/EFCORE.DATA.csproj.CopyComplete
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/EFCORE.DATA.dll
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/refint/EFCORE.DATA.dll
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/EFCORE.DATA.pdb
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/ref/EFCORE.DATA.dll
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/bin/Debug/net8.0/EFCORE.DATA.runtimeconfig.json
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DATA/obj/Debug/net8.0/EFCORE.DATA.genruntimeconfig.cache
