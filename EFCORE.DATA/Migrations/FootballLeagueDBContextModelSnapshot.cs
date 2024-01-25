@@ -50,6 +50,20 @@ namespace EFCORE.DATA.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("teams");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Name = "Arafat",
+                            createdDate = new DateTime(2024, 1, 25, 15, 3, 50, 392, DateTimeKind.Unspecified).AddTicks(770)
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Name = "Hossain",
+                            createdDate = new DateTime(2024, 1, 25, 15, 3, 50, 392, DateTimeKind.Unspecified).AddTicks(840)
+                        });
                 });
 #pragma warning restore 612, 618
         }

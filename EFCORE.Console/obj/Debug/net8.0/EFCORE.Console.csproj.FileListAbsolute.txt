@@ -123,3 +123,4 @@
 /Users/md.hossain/Projects/EFCORE.DATA/EFCORE.Console/obj/Debug/net8.0/EFCORE.Console.pdb
 /Users/md.hossain/Projects/EFCORE.DATA/EFCORE.Console/obj/Debug/net8.0/EFCORE.Console.genruntimeconfig.cache
 /Users/md.hossain/Projects/EFCORE.DATA/EFCORE.Console/obj/Debug/net8.0/ref/EFCORE.Console.dll
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.Console/obj/Debug/net8.0/EFCORE.Console.sourcelink.json

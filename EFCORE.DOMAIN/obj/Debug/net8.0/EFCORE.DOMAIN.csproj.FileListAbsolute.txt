@@ -9,3 +9,4 @@
 /Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/refint/EFCORE.DOMAIN.dll
 /Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/EFCORE.DOMAIN.pdb
 /Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/ref/EFCORE.DOMAIN.dll
+/Users/md.hossain/Projects/EFCORE.DATA/EFCORE.DOMAIN/obj/Debug/net8.0/EFCORE.DOMAIN.sourcelink.json

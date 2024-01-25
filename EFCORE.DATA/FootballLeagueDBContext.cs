@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using EFCORE.DOMAIN;
+using System.Xml.Linq;
 
 namespace EFCORE.DATA
 {
@@ -22,6 +23,25 @@ namespace EFCORE.DATA
         {
             //base.OnConfiguring(optionsBuilder);
             optionsBuilder.UseSqlite($"Data Source=FootballLeague_EfCore.db");
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Team>().HasData(
+                new Team
+                {
+                    Id = 1,
+                    Name = "Arafat",
+                    createdDate = DateTimeOffset.Now.DateTime
+                },
+                new Team
+                {
+                    Id = 2,
+                    Name = "Hossain",
+                    createdDate = DateTimeOffset.Now.DateTime
+                }
+            );
         }
     }
 }
